@@ -39,7 +39,7 @@ Presents a structured monthly Profit & Loss statement covering revenue, cost of 
 
 ![Profit-and-Loss](Profit-and-Loss.jpg)
 
-# Key Fiancial Findings
+# Key Financial Findings
 The table below highlights the company's financial performance in 2024 and 2025
 | Financial Metric | 2024 | 2025 |
 |---|---:|---:|
