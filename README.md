@@ -22,11 +22,20 @@ The objective of this project is to investigate the factors behind this performa
 1. Executive Overview
 Provides a high-level view of financial performance through KPI cards, revenue trends, profitability margins and expense breakdowns.
 
+![Executive-Overview](Executive-Overview.jpg)
+
 2. Financial Performance
 Examines year-over-year and month-over-month performance, revenue comparisons and profitability margin trends.
+
+![Financial-Performance](Financial-Performance.jpg)
 
 3. Operational Analysis
 Evaluates revenue contributions by branch, expense categories and operating expenses by department.
 
+![Operational-Analysis](Operational-Analysis.jpg)
+
 4. Profit and Loss Statement
 Presents a structured monthly Profit & Loss statement covering revenue, cost of sales, gross profit, operating expenses, operating profit and net profit before tax.
+
+![Profit-and-Loss](Profit-and-Loss.jpg)
+
